@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drananda
-- 👀 I’m interested in game development
+- 👀 I’m interested in game development and graphic design
 - 🌱 I’m currently learning web development with PHP and Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dwikirizkyananda86@gmail.com
